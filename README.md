@@ -29,3 +29,18 @@ In this Stairs problem,
    You only have to jump either 1 or 2 steps and calculate the no of steps can be possible to achieve so.
 2. The difficult part of the question for me was to understand and link the pattern to the fibonacci series.
 
+**Problem 3 [View Index](Q3.cpp)**
+
+
+
+![Screenshot 2024-11-19 034901](https://github.com/user-attachments/assets/12d47bab-c27b-4712-8bbe-98c164be59d5)
+
+
+
+
+In this range_bitwise problem,
+1. I  initialized the starting index in starting variable but kept updating the ending index in ending variable till the end.
+   The shift variable takes of the right shift performed and counts it.
+2. The major problem I faced here was that I learned >>= operation which is to shift right by just 1 bits and <<= for left 1 bit.
+   After learning that operation the question became easier.
+
