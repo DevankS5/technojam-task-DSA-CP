@@ -3,7 +3,7 @@ Hi my name is Devank Srivastava. I am from first year B.tech CS AI section 23 an
 As of now, I know the basics of C++ and a little bit of Python.
 Here is my solution for techno jam 2024 problems
 
-Problem 1 [View Index](Q1.cpp)
+**Problem 1 [View Index](Q1.cpp)**
 
 
 
@@ -15,7 +15,7 @@ In this Pascal triangle problem,
 1. I used the mathematical formula that uses the value of the previous value [c = c * (i - j ) / j ]
 2. The problem here was that the formula can be only derived if you have some knowledge of PnC.
 
-Problem 2 [View Index](Q2.cpp)
+**Problem 2 [View Index](Q2.cpp)**
 
 
 
