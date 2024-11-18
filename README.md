@@ -15,7 +15,7 @@ In this Pascal triangle problem,
 1. I used the mathematical formula that uses the value of the previous value [c = c * (i - j ) / j ]
 2. The problem here was that the formula can be only derived if you have some knowledge of PnC.
 
-Problem 2 [View Index](Q2.cpp
+Problem 2 [View Index](Q2.cpp)
 
 
 
